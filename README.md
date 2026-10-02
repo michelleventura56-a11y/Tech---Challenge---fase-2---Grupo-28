@@ -10,7 +10,7 @@
 | Campo | Valor |
 |---|---|
 | Turma | <!-- PREENCHER: ex. 12DTAT --> |
-| Grupo | <!-- PREENCHER: ex. Grupo 07 --> |
+| Grupo | 28|
 | Data de entrega | <!-- PREENCHER: DD/MM/AAAA --> |
 
 ### Integrantes
