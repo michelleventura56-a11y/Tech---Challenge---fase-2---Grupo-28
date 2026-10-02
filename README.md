@@ -9,7 +9,7 @@
 
 | Campo | Valor |
 |---|---|
-| Turma | <!-- PREENCHER: ex. 12DTAT --> |
+| Turma | 2DTATBB |
 | Grupo | 28|
 | Data de entrega | <!-- PREENCHER: DD/MM/AAAA --> |
 
@@ -17,13 +17,10 @@
 
 | Nome completo | RM | E-mail |
 |---|---|---|
-| <!-- PREENCHER --> | RM000000 | |
-| | | |
-| | | |
-| | | |
-| | | |
-
----
+|Elisangela Freitas do Nascimento | RM377763 |efreitas7923@hotmail.com |
+|Lilian Fonseca Oliveira | RM377750 |lilianfo@hotmail.com |
+|Marcel e Silva de Almeida | RM377751 |marcel.shaka6@gmail.com |
+|Michelle Ventura Oliveira Costa | RM377779 |michelle.ventura56@gmail.com |
 
 ## 2. Links da entrega
 
@@ -32,7 +29,7 @@ Estes três links são **obrigatórios** e devem ser idênticos aos do PDF de su
 | Item | Link |
 |---|---|
 | Repositório | <!-- PREENCHER: URL pública do GitHub --> |
-| Vídeo executivo (≤ 5 min) | <!-- PREENCHER: YouTube não listado / Drive com acesso liberado --> |
+| Vídeo executivo (≤ 5 min) | <[!-- PREENCHER: YouTube não listado / Drive com acesso liberado --](https://youtu.be/NZP1FulhNuY)> |
 | Apresentação | <!-- PREENCHER: link do arquivo em `docs/` ou Drive --> |
 
 > ⚠️ Repositório privado ou inacessível inviabiliza a avaliação da entrega.
