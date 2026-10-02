@@ -5,10 +5,7 @@ Ordem numerada obrigatória. Cada notebook deve rodar de cima para baixo em ambi
 
 | Arquivo | Escopo |
 |---|---|
-| `01_eda.ipynb` | distribuições, correlações, outliers, balanceamento |
-| `02_preprocessamento.ipynb` | nulos, definição do alvo, normalização, features |
-| `03_modelagem.ipynb` | split/CV, treino de ≥ 2 modelos, comparação |
-| `04_avaliacao.ipynb` | métricas, feature importance, implicações de negócio |
+|[Uploading tech_challenge_grupo28_v3.py…]() | Analise Exploratoria de Dados|
 
 ## Regras
 
